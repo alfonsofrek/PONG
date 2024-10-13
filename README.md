@@ -1,0 +1,3 @@
+Este juego consta de el juego pong y un minijuego para practicar infinitamente tiene sonido al dar con las palas en el juego original y no en el de practica por que creo que el modo practica es algo para jugar mas tranquilamente 
+y con el ruido seria incomodo luego consta de diferentes escenas  y siempre te mandaran a el main menu
+enlace al video -->https://educantabria-my.sharepoint.com/:v:/r/personal/ajimeneze04_educantabria_es/Documents/8007a6d9-0c1f-4d21-baa2-36bf5a6f6a8f.webm?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NNgZrW
